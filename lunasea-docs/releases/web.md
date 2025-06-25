@@ -3,26 +3,26 @@
 LunaSea can be hosted as a web application for usage within any modern browser!
 
 {% hint style="info" %}
-If you want a stable experience, stick with stable releases. Want to test new builds of LunaSea? Read about the [build channels](https://docs.lunasea.app/getting-started/build-channels) to make the right choice!
+If you want a stable experience, stick with stable releases. Want to test new builds of LunaSea? Read about the [build channels](https://docs.crushcodeworks.com/freesea/getting-started/build-channels) to make the right choice!
 {% endhint %}
 
 ## Hosted Builds
 
 _Channel(s): `Stable`, `Beta`, `Edge`_
 
-All web releases of LunaSea are available on hosted instances by the LunaSea team! All communication and data stored is client-side, but there are some limitations of the platform which can be [viewed here](https://docs.lunasea.app/getting-started/platform-restrictions).
+All web releases of LunaSea are available on hosted instances by the LunaSea team! All communication and data stored is client-side, but there are some limitations of the platform which can be [viewed here](https://docs.crushcodeworks.com/freesea/getting-started/platform-restrictions).
 
 {% tabs %}
 {% tab title="Stable" %}
-Access the stable release [here](https://web.lunasea.app/)!
+Access the stable release [here](https://web.crushcodeworks.com/freesea/)!
 {% endtab %}
 
 {% tab title="Beta" %}
-Access the beta release [here](https://beta.web.lunasea.app/)!
+Access the beta release [here](https://beta.web.crushcodeworks.com/freesea/)!
 {% endtab %}
 
 {% tab title="Edge" %}
-Access the edge release [here](https://edge.web.lunasea.app/)!
+Access the edge release [here](https://edge.web.crushcodeworks.com/freesea/)!
 {% endtab %}
 {% endtabs %}
 
@@ -57,7 +57,7 @@ docker run -p 80:80 ghcr.io/jagandeepbrar/lunasea:edge
 _Channel(s): `Stable`, `Beta`, `Edge`_\
 _Format(s): `.zip`_
 
-All web releases are available in the [Build Bucket](https://builds.lunasea.app/#latest/)!
+All web releases are available in the [Build Bucket](https://builds.crushcodeworks.com/freesea/#latest/)!
 
 ## GitHub Releases
 

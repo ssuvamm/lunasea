@@ -3,7 +3,7 @@
 LunaSea is available on macOS 10.15+.
 
 {% hint style="info" %}
-If you want a stable experience, stick with stable releases. Want to test new builds of LunaSea? Read about the [build channels](https://docs.lunasea.app/getting-started/build-channels) to make the right choice!
+If you want a stable experience, stick with stable releases. Want to test new builds of LunaSea? Read about the [build channels](https://docs.crushcodeworks.com/freesea/getting-started/build-channels) to make the right choice!
 {% endhint %}
 
 ## TestFlight
@@ -15,19 +15,19 @@ The easiest way for most users with macOS devices would be to download releases 
 {% tabs %}
 {% tab title="Stable" %}
 1. [Download TestFlight for macOS](https://apps.apple.com/app/testflight/id899247664)
-2. Join the [TestFlight stable channel](https://www.lunasea.app/testflight/stable)
+2. Join the [TestFlight stable channel](https://www.crushcodeworks.com/freesea/testflight/stable)
 3. Download LunaSea via the TestFlight application
 {% endtab %}
 
 {% tab title="Beta" %}
 1. [Download TestFlight for macOS](https://apps.apple.com/app/testflight/id899247664)
-2. Join the [TestFlight beta channel](https://www.lunasea.app/testflight/beta)
+2. Join the [TestFlight beta channel](https://www.crushcodeworks.com/freesea/testflight/beta)
 3. Download LunaSea via the TestFlight application
 {% endtab %}
 
 {% tab title="Edge" %}
 1. [Download TestFlight for macOS](https://apps.apple.com/app/testflight/id899247664)
-2. Join the [TestFlight edge channel](https://www.lunasea.app/testflight/edge)
+2. Join the [TestFlight edge channel](https://www.crushcodeworks.com/freesea/testflight/edge)
 3. Download LunaSea via the TestFlight application
 {% endtab %}
 {% endtabs %}
@@ -37,7 +37,7 @@ The easiest way for most users with macOS devices would be to download releases 
 _Channel(s): `Stable`, `Beta`, `Edge`_\
 _Format(s): `.dmg`, `.zip`_
 
-All macOS releases are available in the [Build Bucket](https://builds.lunasea.app/#latest/)!
+All macOS releases are available in the [Build Bucket](https://builds.crushcodeworks.com/freesea/#latest/)!
 
 ## Homebrew Cask
 
