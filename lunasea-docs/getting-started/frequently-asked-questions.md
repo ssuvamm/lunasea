@@ -21,7 +21,7 @@ Support for torrent clients is easily the most requested new module, and I defin
 Torrent support is not completely off the table and may come in the future! But at the moment, over 90% of the active user base is using iOS-based devices and it is hard to justify building a module (that takes a lot of time) that the mass majority of the user base would not be able to use.
 
 {% hint style="info" %}
-I am actively thinking of methods to get around this limitation, if you have any ideas consider commenting on the torrent client support [feedback board request](https://feedback.lunasea.app/b/New-Modules/p/torrent-clients-support).
+I am actively thinking of methods to get around this limitation, if you have any ideas consider commenting on the torrent client support [feedback board request](https://feedback.crushcodeworks.com/freesea/b/New-Modules/p/torrent-clients-support).
 {% endhint %}
 
 ## Development
@@ -48,18 +48,18 @@ The only possible reason that LunaSea will ever have any kind of payment model i
 
 I tried to make it as stable as possible, but bugs obviously will always be there. If you do run into a bug (especially a fatal/crashing bug), please also attach the logs from the application into the report - logs can be exported from the settings.
 
-* [GitHub Issues](https://www.lunasea.app/github): The best place to alert me of new issues is directly on the GitHub page. Please try to follow the template for bug reports, but again I am not overly strict and a good explanation of the issue will suffice (this may change in the future if it gets increasingly hard to manage).
-* [Discord](https://www.lunasea.app/discord)
-* [Email](https://docs.lunasea.appmailto:hello@lunasea.app/)
-* [Reddit](https://www.lunasea.app/reddit)
+* [GitHub Issues](https://www.crushcodeworks.com/freesea/github): The best place to alert me of new issues is directly on the GitHub page. Please try to follow the template for bug reports, but again I am not overly strict and a good explanation of the issue will suffice (this may change in the future if it gets increasingly hard to manage).
+* [Discord](https://www.crushcodeworks.com/freesea/discord)
+* [Email](https://docs.crushcodeworks.com/freesea/mailto:hello@crushcodeworks.com/freesea)
+* [Reddit](https://www.crushcodeworks.com/freesea/reddit)
 
 ### How Can I Request a New Feature?
 
 I consider all feedback and actively try to integrate new features that are requested by the community, big or small! You have a few ways to request new features for LunaSea:
 
-* [Discord](https://www.lunasea.app/discord)
-* [Email](https://docs.lunasea.appmailto:hello@lunasea.app/)
-* [Reddit](https://www.lunasea.app/reddit)
+* [Discord](https://www.crushcodeworks.com/freesea/discord)
+* [Email](https://docs.crushcodeworks.com/freesea/mailto:hello@crushcodeworks.com/freesea)
+* [Reddit](https://www.crushcodeworks.com/freesea/reddit)
 
 {% hint style="info" %}
 I may not have the ability to respond to all requests directly, but please be ensured I do read everything!
@@ -77,9 +77,9 @@ LunaSea took quite a runaround to initially get on the App Store because of its 
 
 The initial setup can either be incredibly easy or make you want to pull your hair out, I get that and that's what the community is here for! Please feel free to send a message to any of the listed methods to get support where either I or an awesome user in the community will surely come to help you out:
 
-* [Discord](https://www.lunasea.app/discord)
-* [Email](https://docs.lunasea.appmailto:hello@lunasea.app/)
-* [Reddit](https://www.lunasea.app/reddit)
+* [Discord](https://www.crushcodeworks.com/freesea/discord)
+* [Email](https://docs.crushcodeworks.com/freesea/mailto:hello@crushcodeworks.com/freesea)
+* [Reddit](https://www.crushcodeworks.com/freesea/reddit)
 
 A few quick tips on common problems:
 
@@ -101,6 +101,6 @@ While this is outside of the scope of this project, I can try to point you in th
 
 ### I Want to Complain! Where Can I Complain?
 
-Sorry that LunaSea is not meeting your expectations, feel free to post criticisms or complaints to any of the social platforms or directly [email me](https://docs.lunasea.appmailto:hello@lunasea.app/). I hope that I can remedy your complaints, all I ask is that you do not be abusive or disrespectful to myself or others in the community.
+Sorry that LunaSea is not meeting your expectations, feel free to post criticisms or complaints to any of the social platforms or directly [email me](https://docs.crushcodeworks.com/freesea/mailto:hello@crushcodeworks.com/freesea). I hope that I can remedy your complaints, all I ask is that you do not be abusive or disrespectful to myself or others in the community.
 
 I also kindly request that before you submit a 1-star App Store/Play Store review that you consider contacting me directly with your complaints. 1-star reviews can really hurt a smaller application's rating since we do not typically get lots of reviews.

@@ -12,22 +12,22 @@ If you want a stable experience, stick with stable releases. Want to test new bu
 
 _Channel(s): `Stable`, `Beta`, `Edge`_
 
-The easiest way for most users with Android devices would be to download releases of LunaSea directly from the [Google Play Store](https://www.lunasea.app/playstore)!
+The easiest way for most users with Android devices would be to download releases of LunaSea directly from the [Google Play Store](https://www.crushcodeworks.com/freesea/playstore)!
 
 {% tabs %}
 {% tab title="Stable" %}
-Head to the [Google Play Store](https://www.lunasea.app/playstore)!
+Head to the [Google Play Store](https://www.crushcodeworks.com/freesea/playstore)!
 {% endtab %}
 
 {% tab title="Beta" %}
-1. Head to the [Google Play Store](https://www.lunasea.app/playstore)
+1. Head to the [Google Play Store](https://www.crushcodeworks.com/freesea/playstore)
 2. Register for the test directly on the store listing
 3. Download LunaSea via the Google Play Store
 {% endtab %}
 
 {% tab title="Edge" %}
 1. Join the [LunaSea: Edge Testing](https://groups.google.com/g/lunasea-edge-test) Google Group
-2. Head to the [Google Play Store](https://www.lunasea.app/playstore)
+2. Head to the [Google Play Store](https://www.crushcodeworks.com/freesea/playstore)
 3. Register for the test directly on the store listing
 4. Download LunaSea via the Google Play Store
 {% endtab %}
@@ -38,7 +38,7 @@ Head to the [Google Play Store](https://www.lunasea.app/playstore)!
 _Channel(s): `Stable`, `Beta`, `Edge`_\
 _Format(s): `.apk`_
 
-All Android releases are available in the [Build Bucket](https://builds.lunasea.app/#latest/)!
+All Android releases are available in the [Build Bucket](https://builds.crushcodeworks.com/freesea/#latest/)!
 
 ## GitHub Releases
 

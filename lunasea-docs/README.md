@@ -21,7 +21,7 @@ LunaSea is purely a remote control application, it does not offer any functional
 
 ## Releases
 
-All releases for every build channel can be downloaded from the [build bucket](https://builds.lunasea.app/), and all stable releases for all platforms are also available on [GitHub](https://github.com/JagandeepBrar/LunaSea/releases).
+All releases for every build channel can be downloaded from the [build bucket](https://builds.crushcodeworks.com/freesea/), and all stable releases for all platforms are also available on [GitHub](https://github.com/JagandeepBrar/LunaSea/releases).
 
 * [Android](releases/android.md)
 * [iOS](releases/ios.md)

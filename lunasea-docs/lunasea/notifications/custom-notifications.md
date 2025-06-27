@@ -17,7 +17,7 @@ Alternatively, you can copy the content of the URL after the last slash (after `
 
 Custom notifications are supported by both device-based and user-based notifications, with full endpoint details below:
 
-{% swagger baseUrl="https://notify.lunasea.app" path="/v1/custom/device/:device_id" method="post" summary="Device-Based" %}
+{% swagger baseUrl="https://notify.crushcodeworks.com/freesea" path="/v1/custom/device/:device_id" method="post" summary="Device-Based" %}
 {% swagger-description %}
 Send a custom notification using a device token to a single device running LunaSea.
 {% endswagger-description %}
@@ -59,7 +59,7 @@ URL to an image that will be attached to the notification.
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger baseUrl="https://notify.lunasea.app" path="/v1/custom/user/:user_id" method="post" summary="User-Based" %}
+{% swagger baseUrl="https://notify.crushcodeworks.com/freesea" path="/v1/custom/user/:user_id" method="post" summary="User-Based" %}
 {% swagger-description %}
 Send a custom notification using a user token to all devices signed into that LunaSea account.
 {% endswagger-description %}

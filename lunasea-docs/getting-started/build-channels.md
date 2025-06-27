@@ -2,7 +2,7 @@
 
 LunaSea offers four different build channels, each of which supply signed and notarized copies of LunaSea.
 
-All releases for every build channel can be downloaded from the [build bucket](https://builds.lunasea.app/), and all stable releases for all platforms are also available on [GitHub](https://github.com/JagandeepBrar/LunaSea/releases).
+All releases for every build channel can be downloaded from the [build bucket](https://builds.crushcodeworks.com/freesea/), and all stable releases for all platforms are also available on [GitHub](https://github.com/JagandeepBrar/LunaSea/releases).
 
 ## Stable
 
